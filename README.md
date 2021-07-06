@@ -1,11 +1,12 @@
 # Lista de Tareas
-*Uso de CSS, FlexBox, diseño responsivo y JS"
+* *Uso de CSS, FlexBox, diseño responsivo y JS*
 * * * 
 
 Se le puede incluir
 
-Edición de tareas existentes
-Subtareas
+- [ ] Creación de Subtareas
+
+- [ ] Edición de tareas existentes
 
 * * * 
 Capturas:
